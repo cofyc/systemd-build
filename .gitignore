@@ -1,0 +1,6 @@
+*.deb
+*.udeb
+*.gz
+*.xz
+*.changes
+*.dsc
